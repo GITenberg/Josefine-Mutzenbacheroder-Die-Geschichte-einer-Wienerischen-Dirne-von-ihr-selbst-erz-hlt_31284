@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35122
     wikipedia: http://en.wikipedia.org/wiki/Felix_Salten
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31284#Josefine-Mutzenbacheroder-Die-Geschichte-einer-Wienerischen-Dirne-von-ihr-selbst-erz-hlt
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-02-15'
 gutenberg_type: Text
