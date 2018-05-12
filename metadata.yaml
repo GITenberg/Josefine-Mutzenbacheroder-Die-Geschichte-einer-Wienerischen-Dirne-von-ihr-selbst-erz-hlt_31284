@@ -1,0 +1,31 @@
+_repo: Josefine-Mutzenbacheroder-Die-Geschichte-einer-Wienerischen-Dirne-von-ihr-selbst-erz-hlt_31284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salten, Felix
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '35122'
+    url: http://www.gutenberg.org/2009/agents/35122
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Salten
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31284'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Erotic stories'
+- !lcsh 'Austrian fiction'
+title: 'Josefine Mutzenbacher
+
+  oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt'
+url: http://www.gutenberg.org/ebooks/31284
